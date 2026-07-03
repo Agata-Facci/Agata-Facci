@@ -1,7 +1,9 @@
 ## Oii eu sou a Ágata Facci, Sou estudante de Engenharia De Software👋
 
 <div>
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=anuraghazra"></a>
+<a href="https://github-stats-extended.vercel.app/api?username=Agata-Facci">
+<img height="180m" src="https://github-stats-extended.vercel.app/api?username=anuraghazra"></a> 
+<img height="180m" src="https://github-stats-extended.vercel.app/api?username=Agata-Facci"></a>
 </div>
 
 
