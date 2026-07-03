@@ -2,7 +2,6 @@
 
 <div>
 <a href="https://github-stats-extended.vercel.app/api?username=Agata-Facci">
-<img height="180m" src="https://github-stats-extended.vercel.app/api?username=anuraghazra"></a> 
 <img height="180m" src="https://github-stats-extended.vercel.app/api?username=Agata-Facci"></a>
 </div>
 
