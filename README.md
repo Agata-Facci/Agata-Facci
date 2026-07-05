@@ -3,7 +3,7 @@
 <div>
 <a href="https://beacons.ai/api?username=Agata-Facci">
 <img height="180m" src="https://github-stats-readme.vercel.app/api?username=Agata-Facci&show_icons=true&theme=shadow_green&include_all_commits=true&cont_private=true"></a>
-<img height="169m" src="https://github-stats-readme.vercel.app/api/top-langs/?username=Agata-Facci&layout-compact&langs_count=16&theme=dark"></a>
+<img height="169m" src="https://github-stats-readme.vercel.app/api/top-langs/?username=Agata-Facci&layout-compact&langs_count=16&theme=shadow_green"></a>
 </div>
 
 
