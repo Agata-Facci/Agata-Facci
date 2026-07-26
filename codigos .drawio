@@ -199,15 +199,39 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cálculo de Desconto" id="rLvFrw3Lm3NJPzTifcxm">
-    <mxGraphModel dx="1314" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kR2-1pVSlPuLx1ULRWUb-0" />
         <mxCell id="kR2-1pVSlPuLx1ULRWUb-1" parent="kR2-1pVSlPuLx1ULRWUb-0" />
+        <mxCell id="FyTFkOU8QgelI78hTRD8-1" edge="1" parent="kR2-1pVSlPuLx1ULRWUb-1" source="kR2-1pVSlPuLx1ULRWUb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FyTFkOU8QgelI78hTRD8-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kR2-1pVSlPuLx1ULRWUb-4" parent="kR2-1pVSlPuLx1ULRWUb-1" style="rounded=1;whiteSpace=wrap;html=1;" value="inicio" vertex="1">
           <mxGeometry height="30" width="120" x="10" y="310" as="geometry" />
         </mxCell>
         <mxCell id="emGt6lhG1OuHZ1T6Q8qP-0" parent="kR2-1pVSlPuLx1ULRWUb-1" style="rounded=1;whiteSpace=wrap;html=1;" value="fim" vertex="1">
           <mxGeometry height="30" width="120" x="690" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-3" edge="1" parent="kR2-1pVSlPuLx1ULRWUb-1" source="FyTFkOU8QgelI78hTRD8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FyTFkOU8QgelI78hTRD8-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-9" edge="1" parent="kR2-1pVSlPuLx1ULRWUb-1" source="FyTFkOU8QgelI78hTRD8-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FyTFkOU8QgelI78hTRD8-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-0" parent="kR2-1pVSlPuLx1ULRWUb-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=1;" value="preço do produto" vertex="1">
+          <mxGeometry height="40" width="140" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-8" edge="1" parent="kR2-1pVSlPuLx1ULRWUb-1" source="FyTFkOU8QgelI78hTRD8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FyTFkOU8QgelI78hTRD8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-2" parent="kR2-1pVSlPuLx1ULRWUb-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=1;" value="valor do desconto" vertex="1">
+          <mxGeometry height="40" width="150" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-4" parent="kR2-1pVSlPuLx1ULRWUb-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="variavel =&amp;nbsp; &amp;nbsp;float" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FyTFkOU8QgelI78hTRD8-7" parent="kR2-1pVSlPuLx1ULRWUb-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="variavel&amp;nbsp; int" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
