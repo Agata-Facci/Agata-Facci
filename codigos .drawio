@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Verificador de Ano Bissexto" id="zL3PlMkB3ZssF1p1dPGE">
-    <mxGraphModel dx="1005" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="p144UYZCdoIOoXITdO7F-0" />
         <mxCell id="p144UYZCdoIOoXITdO7F-1" parent="p144UYZCdoIOoXITdO7F-0" />
@@ -460,7 +460,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Aprovação por Nota e Faltas" id="-EqZtKoxqBHF6G5Hr7xD">
-    <mxGraphModel dx="1220" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FCyTyLlughEyOilbWEwx-0" />
         <mxCell id="FCyTyLlughEyOilbWEwx-1" parent="FCyTyLlughEyOilbWEwx-0" />
@@ -529,8 +529,8 @@
             <mxPoint x="650" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCyTyLlughEyOilbWEwx-30" parent="FCyTyLlughEyOilbWEwx-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="media=&amp;lt;7.0 &amp;amp;&amp;amp; falta=&amp;gt;15" vertex="1">
-          <mxGeometry height="30" width="70" x="371.08000000000004" y="365" as="geometry" />
+        <mxCell id="FCyTyLlughEyOilbWEwx-30" parent="FCyTyLlughEyOilbWEwx-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="media=&amp;gt;7.0 &amp;amp;&amp;amp; falta=&amp;lt;15" vertex="1">
+          <mxGeometry height="30" width="78.92" x="371.08" y="365" as="geometry" />
         </mxCell>
         <mxCell id="FCyTyLlughEyOilbWEwx-31" edge="1" parent="FCyTyLlughEyOilbWEwx-1" source="FCyTyLlughEyOilbWEwx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FCyTyLlughEyOilbWEwx-32" value="">
           <mxGeometry relative="1" as="geometry">
